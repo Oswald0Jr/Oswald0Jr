@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hOswald0Jr
+- 👋 Hi, I’m @Oswald0Jr
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on ...
