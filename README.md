@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Oswald0Jr, I am currently studying Computer Science at UENP (State University of Northern Parana)
-- 🌱 I’m currently learning
-  
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  
-- 📫 How to reach me: @oswaldojose590@gmail.com 
+- 👋 Hi, I’m @Oswald0Jr, a Software Developer, I have a degree in Computer Science and I`m looking for a job, especially in the back-end area, but I have some experience with front-end as well.
+- 🌱 I have experience with:
+
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,cs,spring,java,js,html,css,)](https://skillicons.dev)
+
+- 📫 How to reach me: @oswaldojose590@gmail.com or www.linkedin.com/in/oswaldo-júnior
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oswald0Jr&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oswald0Jr&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
